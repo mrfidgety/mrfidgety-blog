@@ -28,3 +28,8 @@
 
 # Ignore dotenv files
 .env.development.local
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
