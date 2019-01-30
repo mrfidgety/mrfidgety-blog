@@ -204,16 +204,21 @@
     }
 
     pre {
-      border-left: 2px solid $grey;
-      font-family: $Monospace;
-      font-weight: 400;
-      font-size: 1.25em;
-      line-height: 140%;
-      color: $grey;
-      padding: 0 20px;
+      background-color: #f6f8fa;
+      border-radius: 3px;
+      font-size: 88%;
+      line-height: 1.45;
+      overflow: auto;
+      padding: 16px;
     }
 
-    .highlight pre { font-size: 0.875em; }
+    code {
+      background-color: #f6f8fa;
+      border-radius: 3px;
+      font-size: 88%;
+      margin: 0;
+      padding: .2em .4em;
+    }
 
     table {
       border: none;
