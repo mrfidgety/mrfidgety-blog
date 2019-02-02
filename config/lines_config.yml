@@ -2,14 +2,14 @@
 ### GENERAL, HEADER & META TAGS ###
 ###################################
 
-logo: ""                                                                        # Logo for your blog. Leave empty if you don't have one
+logo: "https://mrfidgety-blog.s3.ap-southeast-2.amazonaws.com/uploads/fidgety-blog-icon.png"                                                                        # Logo for your blog. Leave empty if you don't have one
 blog_name: "Fidgety Blog"                                                       # Give your blog a meanungful name.
 title: "Fidgety Blog - The things I get up to."                                 # Give your blog a meaningful title. This is used for the HTML title attribute
 title_short: "Fidgety Blog"                                                        # Place the name of your blog or a short title here
 short_description: "The things I get up to."                                    # Short description for your blog
 meta_description: "Documenting the things I do, so others may find inspiration" # meta description tag
 meta_author: "MrFidgety"                                                        # meta tag for author
-keywords: "MrFdiegty, Fidgety, Blog"                                            # your keywords
+keywords: "MrFidgety, Fidgety, Blog"                                            # your keywords
 og_logo: "https://opoloo.github.io/lines-engine/assets/images/lines-logo.jpg"   # OpenGraph logo
 geo_position: "50.00; 8.27"                                                     # Geo tags for position and address
 geo_address: "Melbourne, Australia"                                             # Geo tags for position and address

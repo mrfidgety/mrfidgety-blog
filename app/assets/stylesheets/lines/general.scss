@@ -79,7 +79,14 @@ header {
     color: #000;
     &:hover { color: $orange; }
   }
-  #logo { float: left; text-transform: uppercase; font-weight: 600; }
+  #logo {
+    float: left;
+    text-transform: uppercase;
+    font-weight: 600;
+    img {
+      height: 32px;
+    }
+  }
   #lines { float: right; }
 }
 
