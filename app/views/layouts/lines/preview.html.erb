@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <%= display_meta_tags site: CONFIG[:title_short] %>
   <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
-  <%= favicon_link_tag %>
+  <%= render 'application/favicon' %>
   <%= yield :head %>
   <%= stylesheet_link_tag    "lines/application", media: "all" %>
   <%= javascript_include_tag "lines/application" %>
